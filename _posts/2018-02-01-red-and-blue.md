@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Red and Blue'
-date: 2018-02-01
+date: 2018-02-01 00:00:00
 categories: development design
 tags: Unity C#
 featured_image: '/img/posts/redandblue.png'
