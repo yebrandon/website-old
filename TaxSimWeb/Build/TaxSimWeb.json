@@ -1,0 +1,16 @@
+{
+"companyName": "Tax Simulator - Hack Western 6",
+"productName": "Tax Simulator 2019",
+"productVersion": "1.0",
+"dataUrl": "TaxSimWeb.data.unityweb",
+"wasmCodeUrl": "TaxSimWeb.wasm.code.unityweb",
+"wasmFrameworkUrl": "TaxSimWeb.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.1f1"
+}
