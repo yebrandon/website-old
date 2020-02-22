@@ -11,6 +11,12 @@
   {% endif %}
   {% endif %}
 
+  {% for catagory in post.categories%}
+    {% if catagory == "game" %}
+      <a href="{{ post.project_link2 }}" class="project-link"><button class="btn btn-default btn-lg"><i class="fa fa-{{"gamepad"}} fa-lg"></i>{{"Play in browser"}}</button></a>
+    {% endif %}
+  {% endfor %}
+
   {% if post.tags != empty %}
   <div class="tags">
     {% for tag in post.tags %}

@@ -18,7 +18,7 @@ header: "Hi! I'm Brandon."
 email: 'contactbrandonye@gmail.com'
 description: "I like making things using computers."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yebrandon.github.io/website" # the base hostname & protocol for your site, e.g. https://example.com
+url: "yebrandon.com" # the base hostname & protocol for your site, e.g. https://example.com
 github_username: 'yebrandon'
 linkedin_username: 'brandonye'
 devpost_username: 'brandonye'
