@@ -23,6 +23,9 @@ github_username: 'yebrandon'
 linkedin_username: 'brandonye'
 devpost_username: 'brandonye'
 
+section_title: "Portfolio"
+section_subtitle: "Here are some of my favourite projects that I've worked on recently."
+
 # Build settings
 markdown: kramdown
 # theme: phantom # Uncomment once published to RubyGems

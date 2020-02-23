@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Why Hello there again!
+## Why hello there again!
 <br>
 I promise there's lots of cool stuff to know about me, but while I'm still working on this page, feel free to contact me directly if you want to 
 get in touch!
