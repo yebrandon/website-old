@@ -9,5 +9,5 @@ featured_image: '/img/posts/smartwindows.png'
 project_link: 'https://github.com/yebrandon/smart-windows'
 button_text: 'Visit Project'
 button_icon: 'github'
-lead_text: 'A proof of concept IoT system that detects environmental information about windows and allows the user to control them'
+lead_text: 'A proof of concept IoT system that detects environmental information about windows and allows you to control them'
 ---
